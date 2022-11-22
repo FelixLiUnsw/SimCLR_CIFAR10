@@ -6,7 +6,7 @@ Projection Head: 2-Layers MLP (ResNet18, ResNet34), 3-Layers MLP(ResNet50)
 Decoder: Fully connection Layer
 
 Acc: 
-ResNet18: 72.52% (100 epochs), 86.55 (200 epochs), The loss is still decreasing. Try more traning epochs for proxy task, the performance will be improved.
+ResNet18: 72.52% (100 epochs), 86.55 (200 epochs), The loss is still decreasing. Try more training epochs for proxy task, the performance will be improved.
 ResNet34: Have not tested yet, but code is ready.
 ResNet50: Have not tested yet, but code is ready.
 
