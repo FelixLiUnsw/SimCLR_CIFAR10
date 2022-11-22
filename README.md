@@ -18,3 +18,5 @@ SGD (You can try LARS if you have a good GPU, try large batch size)
 
 Scheduler:
 Cosine Annealing
+
+The code will be uploaded in Mid-December
