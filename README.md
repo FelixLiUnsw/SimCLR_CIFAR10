@@ -25,3 +25,7 @@ SGD (You can try LARS if you have a good GPU, try large batch size)
 
 Cosine Annealing
 
+#Experiment Results
+<p float="left">
+  <img src="/average_image_loss_vs_learning_rate.png" width="100" />
+</p>
