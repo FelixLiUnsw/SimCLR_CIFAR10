@@ -82,7 +82,7 @@ class CIFAR_Dataloader(CIFAR10):
 
 if __name__ == "__main__":
     """
-    This is just for testing the code is working.
+    This is just for testing if the code is working.
     Please comment it before you train or test the model
     """
     transform = transform_apply(s = 0.5, training = True)
