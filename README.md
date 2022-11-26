@@ -7,7 +7,13 @@ Decoder: Fully connection Layer
 
 # Acc:
 
-ResNet18 based: 72.52% (100 epochs), 86.55 (200 epochs), The loss is still decreasing. Try more training epochs for proxy task, the performance will be improved.
+ResNet18 based: 
+
+72.52% (100 epochs).
+
+86.55 (200 epochs).
+
+The loss is still decreasing. Try more training epochs for proxy task, the performance will be improved.
 
 ResNet34 based: Have not tested yet, but code is ready.
 
