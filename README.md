@@ -45,3 +45,5 @@ Cosine Annealing
   <img src="/Down_stream_imageloss_vs_learning_rate.png" width="600" />
   <img src="/Downstream_batch_loss_vs_epoch.png" width="600" /> 
 </p>
+
+# If you reference the code, please add the link. Thanks
